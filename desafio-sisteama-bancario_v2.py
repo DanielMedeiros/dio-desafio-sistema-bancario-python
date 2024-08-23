@@ -1,3 +1,4 @@
+#adicionado funções
 import textwrap
 
 
