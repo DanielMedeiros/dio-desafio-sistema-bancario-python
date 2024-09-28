@@ -1,0 +1,1 @@
+[2024-09-28 19:44:52] Função 'criar_cliente' executada com argumentos ([<__main__.PessoaFisica object at 0x0000024FC4F0C9D0>],) e {}. Resultado: None
